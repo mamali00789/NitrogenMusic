@@ -1,0 +1,5 @@
+{
+    "platform": "node",
+    "app": "nitrogenbot",
+    "port": 3000
+  }
